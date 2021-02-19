@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "y84rr0k26NYNvyHAAY7IgWZbHRYjThZzwRTnyLvgQQATxBStiHnFV8ch/LMXEs8Ox7DvKOqpk5iMLt5JofVvLA==",
+  "success": true,
+  "projectFilePath": "/Users/audreyc/Projects/RootCoin/RootCoin/RootCoin.csproj",
+  "expectedPackageFiles": [
+    "/Users/audreyc/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/audreyc/.nuget/packages/starkbank-ecdsa/1.3.0/starkbank-ecdsa.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
